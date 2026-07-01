@@ -34,9 +34,6 @@ Portfolio-Website/
 └── README.md
 ```
 
-## 📸 Preview
-
-Add screenshots of your portfolio here.
 
 
 ## 💻 GitHub Repository
